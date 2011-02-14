@@ -1,1 +1,12 @@
-All about of my configure file
+Tracing hywei's system and software config files.
+=============
+
+including:
+-------------
+bash-config:
+        .bashrc .bash_profile
+xterm-config:
+        .xinitrc
+emacs-config:
+        .emacs .emacs.d/        
+------------
