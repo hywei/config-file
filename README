@@ -4,9 +4,11 @@ Tracing hywei's system and software config files.
 including:
 -------------
 bash-config:
-        .bashrc .bash_profile
+    .bashrc .bash_profile
 xterm-config:
-        .xinitrc
+    .xinitrc
 emacs-config:
-        .emacs .emacs.d/        
+    .emacs .emacs.d/
+git-config:
+    .gitconfig
 ------------
