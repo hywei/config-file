@@ -1,0 +1,22 @@
+;; Object hywei/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "hywei/"
+  :tables (list 
+   (semanticdb-table "test.cpp"
+    :major-mode 'c++-mode
+    :tags 
+        '( ("string" include (:system-flag t) nil [1 18])
+            ("iostream" include (:system-flag t) nil [19 38])
+            ("vector" include (:system-flag t) nil [39 56])
+            ("main" function (:type "int") nil [58 134]))          
+    :file "test.cpp"
+    :pointmax 135
+    :fsize 134
+    :lastmodtime '(19845 45589)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!home!hywei!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.0"
+  )
