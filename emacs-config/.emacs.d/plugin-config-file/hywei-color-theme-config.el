@@ -4,7 +4,7 @@
 
 (require 'color-theme)
 (color-theme-initialize)
-(color-theme-robin-hood)
+;(color-theme-robin-hood)
 ;(defun color-theme-face-attr-construct (face frame)
 ;      (if (atom face)
 ;           (custom-face-attributes-get face frame)
